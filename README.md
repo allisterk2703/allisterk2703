@@ -1,12 +1,12 @@
 <h1 align="center">I'm Allister 👋</h1>
 
-<h3 align="center">Data Scientist | Data Engineer</h3>
+<h3 align="center">Data Scientist & Data Engineer | Passionate about MLOps</h3>
 
-- 🎓 MSc Student in Data Sciences & Business Analytics @ CentraleSupélec & ESSEC Business School
-- 👨‍🔧 Engineering graduate from ECE Paris
-- 💻 Working on full-stack data & MLOps projects using Python (Scikit-Learn, XGBoost, CatBoost, LightGBM, PyTorch, Keras...), MLflow, Airflow, FastAPI, and Docker
-- 🗂️ Main interests: data engineering, data science, machine learning, cloud infrastructure, mlops, network architecture, and ML model deployment
-
+- 🎓 MSc in Data Sciences & Business Analytics @ ESSEC Business School & CentraleSupélec  
+- 🧑‍💻 Engineering graduate from ECE Paris
+- 💻 Building full-stack data & MLOps pipelines using Python (Scikit-Learn, XGBoost, CatBoost, LightGBM, PyTorch, Keras), MLflow, Airflow, FastAPI, and Docker
+- ☁️ Interested in data engineering, machine learning, cloud infrastructure, MLOps, network architecture, and large-scale model deployment
+- 🚀 Career goal: become an MLOps Engineer and build reliable, production-ready AI systems
 
 <p align="center">
   <a href="https://www.allisterkohn.com">
