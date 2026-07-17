@@ -1,6 +1,6 @@
 <h1 align="center">I'm Allister 👋</h1>
 
-<h3 align="center">Data Scientist | Machine Learning | MLOps</h3>
+<h3 align="center">Data Science | Machine Learning | MLOps</h3>
 
 - 🎓 MSc in Data Sciences & Business Analytics @ ESSEC Business School & CentraleSupélec  
 - 🧑‍💻 Engineering graduate from ECE Paris
