@@ -4,7 +4,7 @@
 
 - 🎓 MSc in Data Sciences & Business Analytics @ ESSEC Business School & CentraleSupélec  
 - 🧑‍💻 Engineering graduate from ECE Paris
-- 💻 Building full-stack data & MLOps pipelines using Python (Pandas, Scikit-Learn, XGBoost, CatBoost, LightGBM, PyTorch, Keras), MLflow, Airflow, FastAPI, Docker and AWS (Athena, S3, Glue, ECR, SageMaker AI)
+- 💻 Building full-stack data & MLOps pipelines using Python (Pandas, Scikit-Learn, XGBoost, CatBoost, LightGBM, PyTorch, Keras), MLflow, Airflow, FastAPI, Docker; Terraform, Kubernetes and AWS (Athena, S3, Glue, ECR, SageMaker AI)
 - ☁️ Strong interest in machine learning engineering, cloud platforms, MLOps workflows, and scalable deployment of ML models
 - 🚀 Career goal: become an MLOps Engineer and build reliable, production-grade AI systems
 
